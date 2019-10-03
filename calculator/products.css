@@ -53,23 +53,23 @@ top: 0px;
 .banner{
    /* solar-energy-advantages-and-disadvantages-social-696x364 */
 position: center;
-width: 890px;
+width: 800px;
 height: 426px;
 left: 350px;
-top: 36px;
-margin: 10px 10px 10px;
+top: 45px;
+margin: 20px 0px 30px;
 
 background: url(solar-energy-advantages-and-disadvantages-social-696x364.jpg);
     }
 
 p{
 position: absolute;
-width: 890px;
+width: 800px;
 height: 384px;
 left: 450px;
 top: 450px;
 
-margin: 30px 5px 30px;
+margin: 25px 0px 30px;
 
 font-family: Romantic;
 font-style: normal;
@@ -129,7 +129,7 @@ text-transform: uppercase;
 position: absolute;
 width: 290px;
 height: 73px;
-left: 543px;
+left: 500px;
 top: 942px;
 
 font-family: Rakkas;
@@ -152,7 +152,7 @@ color: #000000;
 position: absolute;
 width: 210px;
 height: 96px;
-left: 833px;
+left: 750px;
 top: 942px;
 
 font-family: Rakkas;
@@ -175,7 +175,7 @@ color: #000000;
 position: absolute;
 width: 194px;
 height: 51px;
-left: 1043px;
+left: 950px;
 top: 939px;
 
 font-family: Rakkas;
